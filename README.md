@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">📕Studying C++<br><br>🎸philharmonic❤<br><br>😢Due to academic reasons, I have less time to check Discord and Github messages.<br><br>If there is any infringement, please contact me via the email 2749012367@qq.com. Once I receive the message, I will delete it immediately🙏</h4>
+<h4 align="center">📕Studying C++<br><br>🎸Love music❤<br><br>😢Due to academic reasons, I have less time to check Discord and Github messages.<br><br>If there is any infringement, please contact me via the email 2749012367@qq.com. Once I receive the message, I will delete it immediately🙏</h4>
 
 ###
 
